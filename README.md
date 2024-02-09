@@ -11,7 +11,9 @@ Bu, basit bir Not uygulamasıdır. Bu uygulama ile kullanıcılar notlarını ek
 
 ## Packages
 
-  sqflite: ^2.3.2
-  path_provider: ^2.1.2
-  intl: ^0.19.0
+  - sqflite: ^2.3.2
+  
+  - path_provider: ^2.1.2
+  
+  - intl: ^0.19.0
   
