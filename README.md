@@ -17,3 +17,14 @@ Bu, basit bir Not uygulamasıdır. Bu uygulama ile kullanıcılar notlarını ek
   
   - intl: ^0.19.0
   
+## Uygulama Görselleri
+
+![image](https://github.com/Dogukangoktass/flutter_notes_app/assets/48564986/90a2121e-6587-4872-bf1f-aeb5606176ce)
+
+
+![image](https://github.com/Dogukangoktass/flutter_notes_app/assets/48564986/a466bc45-ec70-46cb-ace3-46c8921cdbfa)
+
+
+![image](https://github.com/Dogukangoktass/flutter_notes_app/assets/48564986/bd8150c0-ec54-423b-93b3-170c8fb5d9a0)
+
+
