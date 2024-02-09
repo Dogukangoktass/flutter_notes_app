@@ -1,16 +1,17 @@
-# flutter_notes_app
+# Not Uygulaması
 
-A new Flutter project.
+Bu, basit bir Not uygulamasıdır. Bu uygulama ile kullanıcılar notlarını ekleyebilir, düzenleyebilir ve silebilirler.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Kullanılan Teknolojiler
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter: Cross-platform mobil uygulama geliştirmek için kullanılmıştır.
+- SQFlite: Mobil uygulamalarda yerel SQLite veritabanı yönetimi için kullanılmıştır.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Packages
+
+  sqflite: ^2.3.2
+  path_provider: ^2.1.2
+  intl: ^0.19.0
+  
